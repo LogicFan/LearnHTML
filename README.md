@@ -10,7 +10,7 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 - [x] 0:03:48  Installing Extensions
 - [x] 0:10:49  Basic Layout
 - [x] 0:15:12  Meta Tags
-- [ ] 0:28:12  H and P Tags
+- [x] 0:28:12  H and P Tags
 - [ ] 0:35:11  Images and Video
 - [ ] 0:42:21  A Tags
 - [ ] 0:47:34  Forms
