@@ -13,7 +13,7 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 - [x] 0:28:12  H and P Tags
 - [x] 0:35:11  Images and Video
 - [x] 0:42:21  A Tags
-- [ ] 0:47:34  Forms
+- [x] 0:47:34  Forms
 - [ ] 1:04:22  Lists
 - [ ] 1:08:27  Comments
 - [ ] 1:10:53  Tables
