@@ -4,9 +4,9 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 
 ## Progress
 
-- [ ] 00:00:00 Intro
-- [ ] 00:01:02 1. HTML Basics
-- [ ] 00:17:42 2. CSS Basics
+- [x] 00:00:00 Intro
+- [x] 00:01:02 1. HTML Basics
+- [x] 00:17:42 2. CSS Basics
 - [ ] 00:44:39 3. Hovers, Transitions, Shadows
 - [ ] 01:03:10 4. Chrome DevTools & CSS Box Model
 - [ ] 01:17:30 5. Text Styles
