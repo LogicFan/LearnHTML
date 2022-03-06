@@ -1,0 +1,22 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.price {
+    font-size: xx-large;
+}
+.currency {
+    margin-left: 6px;
+    font-size: medium;
+    color:grey;
+}
+.pl-today {
+    color: green;
+}
+.after {
+    color:grey;
+}
+.pl-after {
+    color: red;
+}

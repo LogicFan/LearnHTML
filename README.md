@@ -10,7 +10,7 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 - [x] 00:44:39 3. Hovers, Transitions, Shadows
 - [x] 01:03:10 4. Chrome DevTools & CSS Box Model
 - [x] 01:17:30 5. Text Styles
-- [ ] 01:52:18 6. The HTML Structure
+- [x] 01:52:18 6. The HTML Structure
 - [ ] 02:11:08 7. Images and Text Boxes
 - [ ] 02:25:42 8. CSS Display Property
 - [ ] 02:34:58 9. The div Element
