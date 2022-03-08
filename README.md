@@ -15,7 +15,7 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 - [x] 02:25:42 8. CSS Display Property
 - [x] 02:34:58 9. The div Element
 - [x] 02:46:55 10. Nested Layouts Technique
-- [ ] 03:16:58 11. CSS Grid
+- [x] 03:16:58 11. CSS Grid
 - [ ] 03:43:58 12. Flexbox
 - [ ] 04:15:21 13. Nested Flexbox
 - [ ] 04:44:36 14. CSS Position

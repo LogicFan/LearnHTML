@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p {
+            font-family: Arial;
+            margin: 0;
+        }
+        .photo {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+        .name {
+            font-weight: bold;
+            margin-bottom: 0;
+            margin-left: 6px;
+            margin-bottom: 4px;
+        }
+        .friend {
+            color: gray;
+            font-size: small;
+        }
+        .add {
+            color: white;
+            background-color: dodgerblue;
+            border: none;
+            border-radius: 2px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            margin-left: 6px;
+        }
+        .profile {
+            box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+        }
+        .icon {
+            width: 20px;
+            height: 20px;
+            object-fit: cover;
+            border-radius: 1000px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 12px;
+        }
+        .friend-grid {
+            display: grid;
+            grid-template-columns: 20px 1fr;
+            column-gap: 4px;
+            margin-left: 6px;
+            align-items: center;
+            margin-bottom: 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <div class="profile">
+            <div>
+                <img class="photo" src="photo.jpg">
+            </div>
+            <div>
+                <p class="name">Oliver</p>
+            </div>
+            <div>
+                <div class="friend-grid">
+                    <img class="icon" src="photo.jpg">
+                    <p class="friend">2 mutual friends</p>
+                </div>
+            </div>
+            <div>
+                <button class="add">Add Friend</button>
+            </div>
+        </div>
+        <div class="profile">
+            <div>
+                <img class="photo" src="photo.jpg">
+            </div>
+            <div>
+                <p class="name">Oliver</p>
+            </div>
+            <div>
+                <div>
+                    <img class="icon" src="photo.jpg">
+                </div>
+                <div>
+                    <p class="friend">2 mutual friends</p>
+                </div>
+            </div>
+            <div>
+                <button class="add">Add Friend</button>
+            </div>
+        </div>
+        <div class="profile">
+            <div>
+                <img class="photo" src="photo.jpg">
+            </div>
+            <div>
+                <p class="name">Oliver</p>
+            </div>
+            <div>
+                <div>
+                    <img class="icon" src="photo.jpg">
+                </div>
+                <div>
+                    <p class="friend">2 mutual friends</p>
+                </div>
+            </div>
+            <div>
+                <button class="add">Add Friend</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
