@@ -13,7 +13,7 @@ This is a repo I used for learning HTML 5 and CSS 3. It follows the video https:
 - [x] 01:52:18 6. The HTML Structure
 - [x] 02:11:08 7. Images and Text Boxes
 - [x] 02:25:42 8. CSS Display Property
-- [ ] 02:34:58 9. The div Element
+- [x] 02:34:58 9. The div Element
 - [ ] 02:46:55 10. Nested Layouts Technique
 - [ ] 03:16:58 11. CSS Grid
 - [ ] 03:43:58 12. Flexbox
